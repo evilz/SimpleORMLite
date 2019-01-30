@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleORMLite", "SimpleORMLite\SimpleORMLite.csproj", "{A22751BF-BB90-48F1-A831-61DDE03357BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{BF350778-121F-4B1B-BA4D-60F381D50AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22751BF-BB90-48F1-A831-61DDE03357BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22751BF-BB90-48F1-A831-61DDE03357BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22751BF-BB90-48F1-A831-61DDE03357BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22751BF-BB90-48F1-A831-61DDE03357BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF350778-121F-4B1B-BA4D-60F381D50AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF350778-121F-4B1B-BA4D-60F381D50AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF350778-121F-4B1B-BA4D-60F381D50AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF350778-121F-4B1B-BA4D-60F381D50AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DCA8BA-85F4-418E-A912-C79714A4B979}
+	EndGlobalSection
+EndGlobal
